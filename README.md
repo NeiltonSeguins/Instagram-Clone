@@ -1,2 +1,5 @@
-# Instagram-Clone
-Página web da tela de login do instagram usando HTML e CSS3
+# Clone Instagram
+
+Este repositório possui um clone da página web de login do instagram.
+
+## 🚀 Let's code! 🚀
